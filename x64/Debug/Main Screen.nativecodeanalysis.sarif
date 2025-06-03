@@ -1,0 +1,339 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.39.33522.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/main screen.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "24a9d97f79bf4c34ed26b25441acc35aff8c243d908c55aa142b2ec516b1eb5f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/clsbankclient.h"
+          },
+          "hashes": {
+            "sha-256": "3ff3a1aab56c4fdb8038e3d9d8459df418909b178c18a54da6e4811a4f15c34b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/clsperson.h"
+          },
+          "hashes": {
+            "sha-256": "465a387dc6b584855cb806ece280f6086ef79ae068f4e96dea8959b777f72a23"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/interfacecommuniction.h"
+          },
+          "hashes": {
+            "sha-256": "d781525c37b7d9f6fdb980e76c0469684d958fda4050b093b7a0c978a2fec644"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/clsstring.h"
+          },
+          "hashes": {
+            "sha-256": "df79d1cbe2d67291461b884595924175936d80763775ae5825ae8ec2b2c1d02c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/clsinputvalidate.h"
+          },
+          "hashes": {
+            "sha-256": "d63b1597f563708aacc80c05dbaf348a1f2ef1fcc9607226415682eeec4ece1c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/clsdate.h"
+          },
+          "hashes": {
+            "sha-256": "949861bf906ac2e812d37566b233f8141d88202c09722450d6b7ce0333103173"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/clsutil.h"
+          },
+          "hashes": {
+            "sha-256": "993b0c16931016d69a70c8e583d005366d4f8afae2400c6791ccb99db5aaeeec"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/clsdates.h"
+          },
+          "hashes": {
+            "sha-256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/globalscreenofoop11.h"
+          },
+          "hashes": {
+            "sha-256": "c2a23bf29889f45f427ce6cf4a52e4a093308a6ecaebe2c92a769557ddd3a087"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/clsuser.h"
+          },
+          "hashes": {
+            "sha-256": "2deae6f16f2f1dff1e3ed0518234db54d5c1a06e365b93d867f32f24433b0652"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/clsstrings.h"
+          },
+          "hashes": {
+            "sha-256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/clsmainscreenof_oop11.h"
+          },
+          "hashes": {
+            "sha-256": "3d4346bc547f6401580af9dafaf5ef8d11fda1195607d6387fbb0b5d2848ef1a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/clsscreen.h"
+          },
+          "hashes": {
+            "sha-256": "ab93e334e81843ea6996e879eae92007d854b23d272485d2fe516fc6eb50a168"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/clsclientlistscreen.h"
+          },
+          "hashes": {
+            "sha-256": "d0ff86b68cf6eb5a87eddc628f164044f4c2bffeb3155cd90841466746cc0e97"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/clsaddnewclientscreen.h"
+          },
+          "hashes": {
+            "sha-256": "c2c9fc953406efa619c7112b63b459a8a2d47f74199fa4b7ad419313fa782393"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/clsdeleteclientscreen.h"
+          },
+          "hashes": {
+            "sha-256": "ebe3f17501230448827ef38d30052c92ca7498b0347398628eab2ed0f8dffea8"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/clsupdateclientscreen.h"
+          },
+          "hashes": {
+            "sha-256": "d43bce923aadfd701859d6dfa8968a42eb65a53084041493f155e9b39dc6c6a4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/clsfindclientscreen.h"
+          },
+          "hashes": {
+            "sha-256": "94131f30fd195c2c417e2c6248cbbfc107bc571647ed159c840495982f3d3cd1"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/clstransactionclientscreen.h"
+          },
+          "hashes": {
+            "sha-256": "f17c0daf1bb3b37e4ad1c5ae0fbe2629faa00805f36cb8ad63a1938596e060d6"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/clsdepositclientscreen.h"
+          },
+          "hashes": {
+            "sha-256": "613b16180d432f786ef0535a4b81bfc1a9d5c34d4a40a0f0b60e3c1f6bcf8e0c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/clswithdrawclientscreen.h"
+          },
+          "hashes": {
+            "sha-256": "7456ff7d735518c3f4a6e961f68e6565e468f5842620d8b88c29e12c184403f9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/clstotalbalancesclientscreen.h"
+          },
+          "hashes": {
+            "sha-256": "d7a257c7ee59622a436a5fafca380572df1cb787f686fe8e44262621d4a7450f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/clswiretransferclientscreen.h"
+          },
+          "hashes": {
+            "sha-256": "0e7b2eda88675e4f708427a0e81f61491d0d60ad2be7bad6677647205e76a198"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/clstransferlogclientscreen.h"
+          },
+          "hashes": {
+            "sha-256": "0298fb0252e7b0f8bd814290d268c991e9a617438619a417ca6fa8f9016a0c75"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/clsmanageusersscreen.h"
+          },
+          "hashes": {
+            "sha-256": "526f6b7200c9ac798fb71d41eebb8c4a69cc6abab6324e94029996494ce6953d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/clsuserslistscreen.h"
+          },
+          "hashes": {
+            "sha-256": "4d514674566fb062f82f94d4a80e026d2c34ed84385b00f3199292beb6d466d3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/clsaddnewuserscreen.h"
+          },
+          "hashes": {
+            "sha-256": "4d11e496e38e501584674c17196f85503f9c50e41cf3ccc030878952352a025c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/clsdeleteuserscreen.h"
+          },
+          "hashes": {
+            "sha-256": "305bb4333b209c797e560c8f5ab809f1e10c6a025bd34832b8a072e39f2a60a9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/clsupdateuserscreen.h"
+          },
+          "hashes": {
+            "sha-256": "7efb9dffa9c5e448315d4d998066f45875310038299c78d640976149614b5b3f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/clsfinduserscreen.h"
+          },
+          "hashes": {
+            "sha-256": "ad4a775536051ddcbd4f23a131f691608cf6b922c2be63aa077bfc34f8cb6bd4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/clsloginregisterusersscreen.h"
+          },
+          "hashes": {
+            "sha-256": "960aa32b535d27c0d6f605ab1c2f667f613d604db9fd1a9b634bd49fe54eabd4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/clscurrencyexchangescreen.h"
+          },
+          "hashes": {
+            "sha-256": "03a9650037670c783fa152423b69d8311c0299794b6b9b280269f25dd5410395"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/clscurrencylistscreenscreen.h"
+          },
+          "hashes": {
+            "sha-256": "12d6c981d4cba22e28b719373b30aa647c9ee5b77527e7e3ca1658df25e1f3a8"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/clscurrncy.h"
+          },
+          "hashes": {
+            "sha-256": "d81281b0fe88b8ca1295f92615a0a8ae5a2803792ff91abe551ee514fe602d81"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/clsfindcurrenyscreen.h"
+          },
+          "hashes": {
+            "sha-256": "7444950cbc5ea9c48d297539e1b9950087c8a8f2b6ec1cc511945d95f56589ea"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/clsupdatecurrencyratescreen.h"
+          },
+          "hashes": {
+            "sha-256": "1bc575ea495aad2b6a35c1374b5402ba1badd58561115f4519d5be87c42b14e7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/clscurrencycalculatorscreen.h"
+          },
+          "hashes": {
+            "sha-256": "4d23e175d9db189abc3ffa78c01a5b2a5591e319f9a9ef51a53c27c87b0883a3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/abura/source/repos/oop 11/oop 11/clsloginusersscreen.h"
+          },
+          "hashes": {
+            "sha-256": "e9ff9c1b577f79d5298c967310b612951723d2d7b31e94774e0d297c67b44ade"
+          }
+        }
+      ]
+    }
+  ]
+}
