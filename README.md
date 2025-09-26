@@ -25,10 +25,10 @@ This project helped me **understand how to deal with large and complex systems**
 
 ## Some Screenshots
 
-![Login Screen](screenshots/login.png)  
-![Main Menu](screenshots/main_menu.png)  
-![Client List](screenshots/client_list.png)  
-![Find Client](screenshots/find_client.png)
+![Login Screen](C:\Users\Abura\AppData\Local\Microsoft\Windows\INetCache\IE\Z2S78ISA)  
+![Main Menu](C:\Users\Abura\AppData\Local\Microsoft\Windows\INetCache\IE\BKVUWDES)  
+![Client List](C:\Users\Abura\AppData\Local\Microsoft\Windows\INetCache\IE\NRKOJXAX)  
+![Find Client](C:\Users\Abura\AppData\Local\Microsoft\Windows\INetCache\IE\CB0MQ486)
 
 ---
 
