@@ -11,7 +11,7 @@ All modules (authentication, transaction handling, file persistence, and input v
 To design and implement a secure, modular banking system while practicing Object-Oriented Programming (OOP) in C++.  
 This project helped me **understand how to deal with large and complex systems**, from structuring modules and handling data persistence to enforcing secure login and user management.
 
-> هذا المشروع علمني كيف أتعامل مع **الأنظمة الكبيرة والمعقدة** من حيث تنظيم الوحدات، وحفظ البيانات في الملفات، وإدارة المستخدمين وتطبيق الدخول الآمن.
+>هذا المشروع علّمني كيف أتعامل مع **الأنظمة الكبيرة والمعقدة** من حيث تنظيم الوحدات، وحفظ البيانات في الملفات، وإدارة المستخدمين وتطبيق الدخول الآمن.
 
 ---
 
@@ -24,14 +24,15 @@ This project helped me **understand how to deal with large and complex systems**
 ---
 
 ## Some Screenshots
-*(Place these images in the repo root or in a `screenshots/` folder and update paths if needed.)*
-  
-![Login Screen](login.png)  
-![Main Menu](main_menu.png)  
-![Client List](client_list.png)  
-![Find Client](find_client.png)
+
+![Login Screen](screenshots/login.png)  
+![Main Menu](screenshots/main_menu.png)  
+![Client List](screenshots/client_list.png)  
+![Find Client](screenshots/find_client.png)
 
 ---
+
+## Project Structure
 Full-Bank-system/
 ├── Clients.txt # Stores client data
 ├── Users.txt # Stores system users
@@ -64,8 +65,6 @@ Full-Bank-system/
 ├── OOP 11.vcxproj / filters / user # Visual Studio project files
 └── x64/Debug/ # Compiled binaries
 
-## Project Structure
-
 ---
 
 ## Getting Started
@@ -84,11 +83,6 @@ Full-Bank-system/
 - **Currency Module:** view/update rates & exchange calculation  
 - **Audit Logs:** login/register activity tracking  
 - **File Persistence:** data stored in `.txt` files
-
----
-
-## Demo Video
-*(No demo video available for this project.)*
 
 ---
 
