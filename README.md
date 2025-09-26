@@ -11,7 +11,7 @@ All modules (authentication, transaction handling, file persistence, and input v
 To design and implement a secure, modular banking system while practicing Object-Oriented Programming (OOP) in C++.  
 This project helped me **understand how to deal with large and complex systems**, from structuring modules and handling data persistence to enforcing secure login and user management.
 
-> هذا المشروع علمني كيف أتعامل مع **الأنظمة الكبيرة والمعقدة** من حيث تنظيم الوحدات، وحفظ البيانات في الملفات، وإدارة المستخدمين وتطبيق الدخول الآمن.
+> هذا المشروع علّمني كيف أتعامل مع **الأنظمة الكبيرة والمعقدة** من حيث تنظيم الوحدات، وحفظ البيانات في الملفات، وإدارة المستخدمين وتطبيق الدخول الآمن.
 
 ---
 
