@@ -22,13 +22,12 @@ This project helped me **understand how to deal with large and complex systems**
 - **Platform:** Windows Desktop (x64)
 
 ---
-
 ## Some Screenshots
 
-![Login Screen](C:\Users\Abura\AppData\Local\Microsoft\Windows\INetCache\IE\Z2S78ISA)  
-![Main Menu](C:\Users\Abura\AppData\Local\Microsoft\Windows\INetCache\IE\BKVUWDES)  
-![Client List](C:\Users\Abura\AppData\Local\Microsoft\Windows\INetCache\IE\NRKOJXAX)  
-![Find Client](C:\Users\Abura\AppData\Local\Microsoft\Windows\INetCache\IE\CB0MQ486)
+![Login Screen](screenshots/Screenshot_Login.jpg)  
+![Main Menu](screenshots/ScreenShor_MainScreen.jpg)  
+![Add New Client](screenshots/ScreenShot_AddNewClient.jpg)  
+![Client List](screenshots/ScreenShot_ClientList.jpg)
 
 ---
 
