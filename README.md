@@ -22,13 +22,12 @@ This project helped me **understand how to deal with large and complex systems**
 - **Platform:** Windows Desktop (x64)
 
 ---
-
 ## Some Screenshots
 
-![Login Screen](screenshots/Screenshot_Login.jpg)  
-![Main Menu](screenshots/ScreenShor_MainScreen.jpg)  
-![Add New Client](screenshots/ScreenShot_AddNewClient.jpg)  
-![Client List](screenshots/ScreenShot_ClientList.jpg)  
+![Login Screen](Screenshot_Login.jpg)  
+![Main Menu](ScreenShor_MainScreen.jpg)  
+![Add New Client](ScreenShot_AddNewClient.jpg)  
+![Client List](ScreenShot_ClientList.jpg)  
 
 ---
 
