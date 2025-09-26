@@ -31,39 +31,38 @@ This project helped me **understand how to deal with large and complex systems**
 
 
 ---
-
 ## Project Structure
 Full-Bank-system/
-├── Clients.txt # Stores client data
-├── Users.txt # Stores system users
-├── Currencies.txt # Stores currency data
-├── LoginRegister.text # Login history and audit
-├── Main Screen.cpp # Main application logic
-├── ClsString.h # String utility functions
-├── ClsDates.h # Date/time utilities
-├── ClsPeriod.h # Period calculations
-├── clsBankClient.h # Client class definition
-├── clsUser.h # User class definition
-├── clsPerson.h # Base class for person info
-├── clsScreen.h # Generic screen handler
-├── clsAddNewClientScreen.h # Screen for adding clients
-├── clsDeleteClientScreen.h # Screen for deleting clients
-├── clsUpdateClientScreen.h # Screen for updating client info
-├── clsFindClientScreen.h # Screen for searching clients
-├── clsClientListScreen.h # Screen for showing clients
-├── clsDepositClientScreen.h # Screen for deposits
-├── clsWithdrawClientScreen.h # Screen for withdrawals
-├── clsTransferLogClientScreen.h # Transaction log screen
+├── Clients.txt                 # Stores client data
+├── Users.txt                   # Stores system users
+├── Currencies.txt              # Stores currency data
+├── LoginRegister.text          # Login history and audit
+├── Main Screen.cpp             # Main application logic
+├── ClsString.h                 # String utility functions
+├── ClsDates.h                  # Date/time utilities
+├── ClsPeriod.h                 # Period calculations
+├── clsBankClient.h             # Client class definition
+├── clsUser.h                   # User class definition
+├── clsPerson.h                 # Base class for person info
+├── clsScreen.h                 # Generic screen handler
+├── clsAddNewClientScreen.h     # Screen for adding clients
+├── clsDeleteClientScreen.h     # Screen for deleting clients
+├── clsUpdateClientScreen.h     # Screen for updating client info
+├── clsFindClientScreen.h       # Screen for searching clients
+├── clsClientListScreen.h       # Screen for showing clients
+├── clsDepositClientScreen.h    # Screen for deposits
+├── clsWithdrawClientScreen.h   # Screen for withdrawals
+├── clsTransferLogClientScreen.h# Transaction log screen
 ├── clsWireTransferClientScreen.h # Wire transfer logic
 ├── clsTotalBalancesClientScreen.h # Show total balances
 ├── clsCurrencyExchangeScreen.h # Currency exchange screen
-├── clsCurrencyListScreen.h # Currency list
+├── clsCurrencyListScreen.h     # Currency list
 ├── clsUpdateCurrencyRateScreen.h # Update currency rates
-├── clsManageUsersScreen.h # User management
+├── clsManageUsersScreen.h      # User management
 ├── clsLoginRegisterUsersScreen.h # Login register view
-├── Interfacecommunication.h # Console I/O handling
+├── Interfacecommunication.h    # Console I/O handling
 ├── OOP 11.vcxproj / filters / user # Visual Studio project files
-└── x64/Debug/ # Compiled binaries
+└── x64/Debug/                  # Compiled binaries
 
 ---
 
