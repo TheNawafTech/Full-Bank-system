@@ -24,10 +24,11 @@ This project helped me **understand how to deal with large and complex systems**
 ---
 ## Some Screenshots
 
-![Login Screen](Screenshots_Full bank_Sysytem/Screenshot_Login.jpg)  
-![Main Menu](Screenshots_Full bank_Sysytem/ScreenShor_MainScreen.jpg)  
-![Add New Client](Screenshots_Full bank_Sysytem/ScreenShot_AddNewClient.jpg)  
-![Client List](Screenshots_Full bank_Sysytem/ScreenShot_ClientList.jpg)  
+![Login Screen](Screenshot_Login.jpg)  
+![Main Menu](ScreenShor_MainScreen.jpg)  
+![Add New Client](ScreenShot_AddNewClient.jpg)  
+![Client List](ScreenShot_ClientList.jpg)  
+
 
 ---
 
