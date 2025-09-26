@@ -28,6 +28,7 @@ This project helped me **understand how to deal with large and complex systems**
 ![Main Menu](Screenshots_Full bank_Sysytem/ScreenShor_MainScreen.jpg)  
 ![Add New Client](Screenshots_Full bank_Sysytem/ScreenShot_AddNewClient.jpg)  
 ![Client List](Screenshots_Full bank_Sysytem/ScreenShot_ClientList.jpg)  
+
 ---
 
 ## Project Structure
